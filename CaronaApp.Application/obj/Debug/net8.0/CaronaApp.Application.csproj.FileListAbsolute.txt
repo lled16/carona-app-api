@@ -1,0 +1,15 @@
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Application\bin\Debug\net8.0\CaronaApp.Application.deps.json
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Application\bin\Debug\net8.0\CaronaApp.Application.dll
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Application\bin\Debug\net8.0\CaronaApp.Application.pdb
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Application\bin\Debug\net8.0\CaronaApp.Domain.dll
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Application\bin\Debug\net8.0\CaronaApp.Domain.pdb
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Application\obj\Debug\net8.0\CaronaApp.Application.csproj.AssemblyReference.cache
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Application\obj\Debug\net8.0\CaronaApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Application\obj\Debug\net8.0\CaronaApp.Application.AssemblyInfoInputs.cache
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Application\obj\Debug\net8.0\CaronaApp.Application.AssemblyInfo.cs
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Application\obj\Debug\net8.0\CaronaApp.Application.csproj.CoreCompileInputs.cache
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Application\obj\Debug\net8.0\CaronaAp.CC9BD094.Up2Date
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Application\obj\Debug\net8.0\CaronaApp.Application.dll
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Application\obj\Debug\net8.0\refint\CaronaApp.Application.dll
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Application\obj\Debug\net8.0\CaronaApp.Application.pdb
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Application\obj\Debug\net8.0\ref\CaronaApp.Application.dll

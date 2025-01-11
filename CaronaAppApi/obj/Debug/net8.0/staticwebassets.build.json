@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "fCLKiNijts20ekDJZjjKdYwaNNq1YhvdfyeE/rY2nLw=",
+  "Source": "CaronaAppApi",
+  "BasePath": "_content/CaronaAppApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

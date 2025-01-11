@@ -1,0 +1,11 @@
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Data\bin\Debug\net8.0\CaronaApp.Data.deps.json
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Data\bin\Debug\net8.0\CaronaApp.Data.dll
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Data\bin\Debug\net8.0\CaronaApp.Data.pdb
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Data\obj\Debug\net8.0\CaronaApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Data\obj\Debug\net8.0\CaronaApp.Data.AssemblyInfoInputs.cache
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Data\obj\Debug\net8.0\CaronaApp.Data.AssemblyInfo.cs
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Data\obj\Debug\net8.0\CaronaApp.Data.csproj.CoreCompileInputs.cache
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Data\obj\Debug\net8.0\CaronaApp.Data.dll
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Data\obj\Debug\net8.0\refint\CaronaApp.Data.dll
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Data\obj\Debug\net8.0\CaronaApp.Data.pdb
+E:\Projetos\CaronaApp\CaronaAppApi\CaronaApp.Data\obj\Debug\net8.0\ref\CaronaApp.Data.dll
