@@ -1,4 +1,5 @@
 ﻿using CaronaApp.Application.Interfaces;
+using CaronaApp.Domain.Models.RegistrationModels;
 using Microsoft.AspNetCore.Mvc;
 
 namespace CaronaAppApi.Controllers
@@ -23,6 +24,19 @@ namespace CaronaAppApi.Controllers
                 return NoContent();
 
             return Ok(trips);
+        }
+
+        [HttpPost("create-driver")]
+        public async Task<IActionResult> Create(DriverRegistrationDTO driver)
+        {
+            var result = await _driverService.DriverRegistration(driver);
+            
+            if (result.Success)
+            {
+                return Created();
+            }
+
+            return BadRequest(result.Message + result.Validations);
         }
     }
 }
