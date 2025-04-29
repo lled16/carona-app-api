@@ -20,6 +20,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddScoped<IDriverService, DriverService>();
 builder.Services.AddScoped<IPassengerService, PassengerService>();
 builder.Services.AddScoped<IValidator<RegistrationBaseDTO>, RegistrationValidator>();
+builder.Services.AddScoped<ITripService, TripService>();
 
 var app = builder.Build();
 

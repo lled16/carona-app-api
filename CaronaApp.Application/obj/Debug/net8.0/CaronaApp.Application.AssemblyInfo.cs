@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CaronaApp.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c38e7905b017321c725b3a957083ee9de59ff52")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0f2e16727d1fc316f8051de48525d22a35a198f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CaronaApp.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CaronaApp.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
